@@ -51,9 +51,6 @@ input,
 textarea {
   font-family: "Nunito", sans-serif;
 }
-.submitForm:hover {
-  cursor: pointer;
-}
 
 .create-post {
   width: 100%;
